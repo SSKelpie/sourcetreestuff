@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Week_3_Rube_Goldberg_Machine",
+"productVersion": "0.1",
+"dataUrl": "Sleep Time.data.unityweb",
+"wasmCodeUrl": "Sleep Time.wasm.code.unityweb",
+"wasmFrameworkUrl": "Sleep Time.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.2.4f1"
+}
